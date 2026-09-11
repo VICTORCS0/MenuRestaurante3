@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/tarjeta_pedido">
+
+    <TextView
+        android:id="@+id/txtMesa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:id="@+id/txtPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtFecha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtTotalPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/gold"
+        android:paddingTop="8dp"/>
+
+    <Button
+        android:id="@+id/btnCobrar"
+        android:background="@drawable/boton_principal"
+        android:backgroundTint="@null"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_height="56dp"
+        android:layout_width="match_parent"
+        android:text="COBRAR"
+        android:layout_marginTop="12dp"/>
+
+</LinearLayout>

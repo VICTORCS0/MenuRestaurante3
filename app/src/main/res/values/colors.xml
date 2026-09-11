@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Básicos -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#2F1D14</color>
+
+    <!-- Fondo -->
+    <color name="background">#F7F5F2</color>
+
+    <!-- Tarjetas -->
+    <color name="card">#FFFFFF</color>
+
+    <!-- Colores principales -->
+    <color name="primary">#A95A2A</color>
+    <color name="primary_dark">#6F3A1B</color>
+
+    <!-- Precio y botón + -->
+    <color name="accent">#D46B2C</color>
+
+    <!-- Compatibilidad con el proyecto -->
+    <color name="gold">@color/accent</color>
+    <color name="gold_dark">@color/primary_dark</color>
+
+    <!-- Texto -->
+    <color name="gray_text">#6E625C</color>
+
+</resources>
