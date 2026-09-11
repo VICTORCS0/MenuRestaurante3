@@ -1,6 +1,7 @@
 # MenuRestaurante3
 
 (Proyecto Academico)
+
 Aplicación móvil para la gestión de pedidos de un restaurante, desarrollada en Android Studio utilizando Kotlin. La aplicación permite gestionar productos, mesas y pedidos, además de incorporar autenticación de usuarios mediante Firebase Authentication y almacenamiento de pedidos en Cloud Firestore.
 
 ---
