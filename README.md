@@ -716,4 +716,4 @@ El siguiente video muestra el funcionamiento de la aplicación durante la etapa 
 
 ## 📄 Documentación
 
-[Ver documentación completa del proyecto](./Documentacion_MenuRestaurante3.pdf)
+[Ver documentación completa del proyecto]([./Documentacion_MenuRestaurante3.pdf](https://github.com/VICTORCS0/MenuRestaurante3/blob/main/Documentacion_APP(2).pdf))
